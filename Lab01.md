@@ -157,13 +157,13 @@ Fabric の説明を始める前に、変換とモデルについて理解する�
 
 8. **ADLSData** フォルダーには複数のディメンション (Geo、Product、Reseller、Date) があることがわかります。Sales ファクトもあります。
 
-      a.**Geo ディメンション**は、Cities、Countries、States の各クエリからのデータをマージすることで作成されます。
+      a. **Geo ディメンション**は、Cities、Countries、States の各クエリからのデータをマージすることで作成されます。
 
-      b.**Product ディメンション**は、Product Groups と Product Item Group のクエリからのデータをマージすることで作成されます。
+      b. **Product ディメンション**は、Product Groups と Product Item Group のクエリからのデータをマージすることで作成されます。
 
-      c.**Reseller ディメンション**は、BuyingGroup クエリを使ってフィルター処理されます。
+      c. **Reseller ディメンション**は、BuyingGroup クエリを使ってフィルター処理されます。
 
-      d.**Sales ファクト**は、InvoiceLineItems と Invoice のクエリをマージすることで作成されます。
+      d. **Sales ファクト**は、InvoiceLineItems と Invoice のクエリをマージすることで作成されます。
 
 9. Snowflake データ ソースの場合は、**環境変数**タブ ([ラボ ガイド] の隣) で確認できる **Snowflake ユーザー名と Snowflake パスワード**を使用します。
 
