@@ -232,4 +232,3 @@ spark.createDataFrame(forecast).write.saveAsTable("Sales_Forecast", mode="overwr
 45. 新しいテーブル **sales_forecast** が作成されたことをユーザーに示します。
  
 46. このテーブルを**クエリ**して、テーブルの内容をユーザーに示します。
-
