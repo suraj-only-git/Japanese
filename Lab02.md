@@ -28,7 +28,7 @@
 
     タスク 9: Lakehouse を作成する	
 
-リファレンス	
+- リファレンス	
 
 
 
@@ -39,9 +39,9 @@
 
 このラボを終了すると、次のことが学べます。
 
-• Fabric ワークスペースの作成方法
+- Fabric ワークスペースの作成方法
 
-• Lakehouse の作成方法
+- Lakehouse の作成方法
 
 # Fabric ライセンス
 
@@ -234,51 +234,58 @@ Fabric Analyst in a Day (FAIAD) では、Microsoft Fabric で使用できる主�
 
 Microsoft Fabric の次のステップに役立つリソースをいくつか以下に紹介します。
 
-• ブログ記事で Microsoft Fabric の GA に関するお知らせの全文を確認する
+- ブログ記事で [Microsoft Fabric の GA に関するお知らせ](https://aka.ms/Fabric-Hero-Blog-Ignite23)の全文を確認する
 
-• ガイド付きツアーを通じて Fabric を探索する
+- [ガイド付きツアー](https://aka.ms/Fabric-GuidedTour)を通じて Fabric を探索する
 
-• Microsoft Fabric の無料試用版にサインアップする
+- [Microsoft Fabric の無料試用版](https://aka.ms/try-fabric)にサインアップする
 
-• Microsoft Fabric の Web サイトにアクセスする
+- [Microsoft Fabric の Web サイト](https://aka.ms/microsoft-fabric)にアクセスする
 
-• Fabric の学習モジュールで新しいスキルを学ぶ
+- [Fabric の学習モジュール](https://aka.ms/learn-fabric)で新しいスキルを学ぶ
 
-• Fabric の技術ドキュメントを参照する
+- [Fabric の技術ドキュメント](https://aka.ms/fabric-docs)を参照する
 
-• Fabric 入門編の無料の e-book を読む
+- [Fabric 入門編の無料の e-book](https://aka.ms/fabric-get-started-ebook) を読む
 
-• Fabric コミュニティに参加し、質問の投稿やフィードバックの共有を行い、他のユーザーから学びを得る
+- [Fabric コミュニティ](https://aka.ms/fabric-community)に参加し、質問の投稿やフィードバックの共有を行い、他のユーザーから学びを得る
 
 より詳しい Fabric エクスペリエンスのお知らせに関するブログを参照してください。
 
-• Fabric の Data Factory エクスペリエンスに関するブログ 
+- [Fabric の Data Factory エクスペリエンスに関するブログ](https://aka.ms/Fabric-Data-Factory-Blog) 
 
-• Fabric の Synapse Data Engineering エクスペリエンスに関するブログ 
+- [Fabric の Synapse Data Engineering エクスペリエンスに関するブログ](https://aka.ms/Fabric-DE-Blog)
 
-• Fabric の Synapse Data Science エクスペリエンスに関するブログ 
+- [Fabric の Synapse Data Science エクスペリエンスに関するブログ](https://aka.ms/Fabric-DS-Blog)
 
-• Fabric の Synapse Data Warehousing エクスペリエンスに関するブログ 
+- [Fabric の Synapse Data Warehousing エクスペリエンスに関するブログ](https://aka.ms/Fabric-DW-Blog) 
 
-• Fabric の Synapse Real-Time Analytics エクスペリエンスに関するブログ
+- [Fabric の Synapse Real-Time Analytics エクスペリエンスに関するブログ](https://aka.ms/Fabric-RTA-Blog)
 
-• Power BI のお知らせに関するブログ
+- [Power BI のお知らせに関するブログ](https://aka.ms/Fabric-PBI-Blog)
 
-• Fabric の Data Activator エクスペリエンスに関するブログ 
+- [Fabric の Data Activator エクスペリエンスに関するブログ](https://aka.ms/Fabric-DA-Blog)
 
-• Fabric の管理とガバナンスに関するブログ
+- [Fabric の管理とガバナンスに関するブログ](https://aka.ms/Fabric-Admin-Gov-Blog)
 
-• Fabric の OneLake に関するブログ
+- [Fabric の OneLake に関するブログ](https://aka.ms/Fabric-OneLake-Blog)
 
-• Dataverse と Microsoft Fabric の統合に関するブログ
+- [Dataverse と Microsoft Fabric の統合に関するブログ](https://aka.ms/Dataverse-Fabric-Blog)
 
 © 2023 Microsoft Corporation. All rights reserved.
 
 このデモ/ラボを使用すると、次の条件に同意したことになります。
+
 このデモ/ラボで説明するテクノロジまたは機能は、ユーザーのフィードバックを取得し、学習エクスペリエンスを提供するために、Microsoft Corporation によって提供されます。ユーザーは、このようなテクノロジおよび機能を評価し、Microsoft にフィードバックを提供するためにのみデモ/ラボを使用できます。それ以外の目的には使用できません。このデモ/ラボまたはその一部を、変更、コピー、配布、送信、表示、実行、再現、発行、ライセンス、著作物の作成、転送、または販売することはできません。
+
 複製または再頒布のために他のサーバーまたは場所にデモ/ラボ (またはその一部) をコピーまたは複製することは明示的に禁止されています。
+
 このデモ/ラボは、前に説明した目的のために複雑なセットアップまたはインストールを必要としないシミュレーション環境で潜在的な新機能や概念などの特定のソフトウェア テクノロジ/製品の機能を提供します。このデモ/ラボで表されるテクノロジ/概念は、フル機能を表していない可能性があり、最終バージョンと動作が異なることがあります。また、そのような機能や概念の最終版がリリースされない場合があります。物理環境でこのような機能を使用するエクスペリエンスが異なる場合もあります。
-フィードバック。このデモ/ラボで説明されているテクノロジ、機能、概念に関するフィードバックを Microsoft に提供する場合、ユーザーは任意の方法および目的でユーザーのフィードバックを使用、共有、および商品化する権利を無償で Microsoft に提供するものとします。また、ユーザーは、フィードバックを含む Microsoft のソフトウェアまたはサービスの特定部分を使用したり特定部分とインターフェイスを持ったりする製品、テクノロジ、サービスに必要な特許権を無償でサード パーティに付与します。ユーザーは、フィードバックを含めるために Microsoft がサード パーティにソフトウェアまたはドキュメントをライセンスする必要があるライセンスの対象となるフィードバックを提供しません。これらの権限は、本契約の後も存続します。
+
+**フィードバック**。このデモ/ラボで説明されているテクノロジ、機能、概念に関するフィードバックを Microsoft に提供する場合、ユーザーは任意の方法および目的でユーザーのフィードバックを使用、共有、および商品化する権利を無償で Microsoft に提供するものとします。また、ユーザーは、フィードバックを含む Microsoft のソフトウェアまたはサービスの特定部分を使用したり特定部分とインターフェイスを持ったりする製品、テクノロジ、サービスに必要な特許権を無償でサード パーティに付与します。ユーザーは、フィードバックを含めるために Microsoft がサード パーティにソフトウェアまたはドキュメントをライセンスする必要があるライセンスの対象となるフィードバックを提供しません。これらの権限は、本契約の後も存続します。
+
 Microsoft Corporation は、明示、黙示、または法律上にかかわらず、商品性のすべての保証および条件、特定の目的、タイトル、非侵害に対する適合性など、デモ/ラボに関するすべての保証および条件を拒否します。Microsoft は、デモ/ラボから派生する結果、出力の正確さ、任意の目的に対するデモ/ラボに含まれる情報の適合性に関して、いかなる保証または表明もしません。
-免責事項
+
+**免責事項**
+
 このデモ/ラボには、Microsoft Power BI の新機能と機能強化の一部のみが含まれています。一部の機能は、製品の将来のリリースで変更される可能性があります。このデモ/ラボでは、新機能のすべてではなく一部について学習します。
