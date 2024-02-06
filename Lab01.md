@@ -4,10 +4,14 @@
 
 - ドキュメントの構造	
 - シナリオ / 問題の説明	
-- Power BI Desktop レポートの概要	
-   タスク1: ラボ環境で Power BI Desktop を設定する	
-   タスク 2: Power BI Desktop レポートを分析する	
-   タスク 3: Power Query を確認する	
+- Power BI Desktop レポートの概要
+  
+   タスク1: ラボ環境で Power BI Desktop を設定する
+  
+   タスク 2: Power BI Desktop レポートを分析する
+  
+   タスク 3: Power Query を確認する
+  
 - リファレンス	
 
 
