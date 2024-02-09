@@ -80,7 +80,6 @@ Vous êtes actuellement dans **Mon espace de travail**. Pour utiliser des élém
 
 2. Cliquez sur **Data Factory**.
  
- 
 3. Vous êtes alors redirigé vers la **page d’ Accueil de Data Factory**. La page comporte trois sections principales : 
 
 a. **Nouveau** : cette section répertorie les éléments disponibles dans Data Factory - Dataflow Gen2 et le pipeline de données.
