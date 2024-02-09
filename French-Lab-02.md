@@ -81,16 +81,16 @@ Vous êtes actuellement dans **Mon espace de travail**. Pour utiliser des élém
 2. Cliquez sur **Data Factory**.
  
 3. Vous êtes alors redirigé vers la **page d’ Accueil de Data Factory**. La page comporte trois sections principales : 
+    
+    a. **Nouveau** : cette section répertorie les éléments disponibles dans Data Factory - Dataflow Gen2 et le pipeline de données.
 
-a. **Nouveau** : cette section répertorie les éléments disponibles dans Data Factory - Dataflow Gen2 et le pipeline de données.
+    i. Dataflow Gen2 est la nouvelle génération de Dataflow.
 
-i. Dataflow Gen2 est la nouvelle génération de Dataflow.
+    ii. Le pipeline de données est utilisé pour l’orchestration des données.
 
-ii. Le pipeline de données est utilisé pour l’orchestration des données.
+    b. **Recommandé** : cette section donne accès à la documentation d’apprentissage de démarrage rapide.
 
-b. **Recommandé** : cette section donne accès à la documentation d’apprentissage de démarrage rapide.
-
-c. **Accès rapide** : cette section répertorie les éléments récemment utilisés ou favoris.
+    c. **Accès rapide** : cette section répertorie les éléments récemment utilisés ou favoris.
  
 ## Tâche 3 : expérience Data Activator
 
